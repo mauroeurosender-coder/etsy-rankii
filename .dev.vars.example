@@ -1,0 +1,4 @@
+# Local-only secrets for `wrangler pages dev` (the Cloudflare Pages Functions emulator).
+# Copy this file to .dev.vars and fill in your key — .dev.vars is gitignored.
+# In production (Cloudflare Pages dashboard), set this as a Secret instead: see README.md.
+GEMINI_API_KEY=
